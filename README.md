@@ -2,6 +2,7 @@
 
 [![LC's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr0815)](https://github.com/lcr0815/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lcr0815)](https://github.com/lcr0815/github-profile-trophy)
 
 <!--
 **lcr0815/lcr0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
